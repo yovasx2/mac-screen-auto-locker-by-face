@@ -3,7 +3,7 @@ chardet==3.0.4
 get==1.0.3
 idna==2.6
 numpy==1.14.4
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
 post==1.0.2
 public==1.0.3
 query-string==1.0.2
