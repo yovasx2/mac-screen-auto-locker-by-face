@@ -2,7 +2,7 @@ certifi==2018.4.16
 chardet==3.0.4
 get==1.0.3
 idna==2.6
-numpy==1.14.4
+numpy==1.22.0
 opencv-python==3.4.1.15
 post==1.0.2
 public==1.0.3
